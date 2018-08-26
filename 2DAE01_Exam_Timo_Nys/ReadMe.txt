@@ -1,4 +1,4 @@
-Riptide engine design choices - https://github.com/timonys1998/RiptideEngineV2.0/tree/master/RiptideEngineV2.0/2DAE01_Exam_Timo_Nys
+Riptide engine design choices - https://github.com/timonys1998/RiptideEngineRetake
 
 Engine is inspired by the Unity Entity Component System
 Every object in the game consists of different smaller components that all have their own role.
