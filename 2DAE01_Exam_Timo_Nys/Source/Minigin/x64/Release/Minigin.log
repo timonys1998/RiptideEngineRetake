@@ -3,25 +3,22 @@
   Command.cpp
   Game.cpp
   Grid.cpp
-  InputManager.cpp
-  RenderSystem.cpp
+  Minigin.cpp
   SoundEffectComponent.cpp
-     Creating library C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\x64\Release\Minigin.lib and object C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\x64\Release\Minigin.exp
+     Creating library C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\x64\Release\Minigin.lib and object C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\x64\Release\Minigin.exp
   Generating code
-  5 of 2465 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  All 2465 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Minigin.vcxproj -> C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\x64\Release\Minigin.exe
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2\lib\x64\SDL2.dll
+  Minigin.vcxproj -> C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\x64\Release\Minigin.exe
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2\lib\x64\SDL2.dll
   1 File(s) copied
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libjpeg-9.dll
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libpng16-16.dll
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libtiff-5.dll
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libwebp-7.dll
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\SDL2_image.dll
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\zlib1.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libjpeg-9.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libpng16-16.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libtiff-5.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\libwebp-7.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\SDL2_image.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_image\lib\x64\zlib1.dll
   6 File(s) copied
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_ttf\lib\x64\libfreetype-6.dll
-  C:\Users\Timo\Documents\Retakes\Prog4\RetakeExamEngine\RiptideEngineV2.0\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_ttf\lib\x64\libfreetype-6.dll
+  C:\Users\Timo\Documents\RiptideEngineRetake\2DAE01_Exam_Timo_Nys\Source\3rdParty\SDL2_ttf\lib\x64\SDL2_ttf.dll
   2 File(s) copied
